@@ -1,4 +1,6 @@
 # Find the maximum of a list of numbers
+NAME: SHYAM S
+REF.NO: 23012478
 ## Aim:
 To write a program to find the maximum of a list of numbers.
 ## Equipment’s required:
